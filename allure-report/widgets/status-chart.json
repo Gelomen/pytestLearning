@@ -1,0 +1,201 @@
+[ {
+  "uid" : "32e7065aafacb000",
+  "name" : "test_find_element_by_css_selector",
+  "time" : {
+    "start" : 1578630485565,
+    "stop" : 1578630485766,
+    "duration" : 201
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "57676eba9a6bfb6a",
+  "name" : "test_shuffle",
+  "time" : {
+    "start" : 1578630425961,
+    "stop" : 1578630425961,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "23b76d33ccaab78e",
+  "name" : "test_choice",
+  "time" : {
+    "start" : 1578630425962,
+    "stop" : 1578630425962,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "3c44507c120c0be9",
+  "name" : "test_div",
+  "time" : {
+    "start" : 1578630425957,
+    "stop" : 1578630425957,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "27080be3092d67a9",
+  "name" : "test_sub",
+  "time" : {
+    "start" : 1578630425887,
+    "stop" : 1578630425887,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "aba40c836c426a25",
+  "name" : "test_find_element_by_class_name",
+  "time" : {
+    "start" : 1578630470906,
+    "stop" : 1578630470924,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e5f2a38258484f87",
+  "name" : "test_find_element_by_xpath",
+  "time" : {
+    "start" : 1578630478032,
+    "stop" : 1578630478434,
+    "duration" : 402
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4473ab89fd3bf84",
+  "name" : "test_find_element_by_tag_name",
+  "time" : {
+    "start" : 1578630463776,
+    "stop" : 1578630463795,
+    "duration" : 19
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "82198367e11ca8b4",
+  "name" : "test_search",
+  "time" : {
+    "start" : 1578630430964,
+    "stop" : 1578630434487,
+    "duration" : 3523
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "108dbb00a122d71e",
+  "name" : "test_find_element_by_css_selector",
+  "time" : {
+    "start" : 1578630492888,
+    "stop" : 1578630492989,
+    "duration" : 101
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "af87db8c10601b8a",
+  "name" : "test_add",
+  "time" : {
+    "start" : 1578630425891,
+    "stop" : 1578630425891,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "2279fa468e5babc",
+  "name" : "test_mul",
+  "time" : {
+    "start" : 1578630425955,
+    "stop" : 1578630425955,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e263b9b12ab2a2c5",
+  "name" : "test_find_element_by_name",
+  "time" : {
+    "start" : 1578630448812,
+    "stop" : 1578630448840,
+    "duration" : 28
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "77d93f0d5847b45f",
+  "name" : "test_assert_true",
+  "time" : {
+    "start" : 1578630425969,
+    "stop" : 1578630425969,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "severity" : "normal"
+}, {
+  "uid" : "50e6e804419bce63",
+  "name" : "test_find_element_by_link_text",
+  "time" : {
+    "start" : 1578630456613,
+    "stop" : 1578630456638,
+    "duration" : 25
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7beca335b9e86d5e",
+  "name" : "test_sum",
+  "time" : {
+    "start" : 1578630425884,
+    "stop" : 1578630425884,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "5de849e6208a98",
+  "name" : "test_sub",
+  "time" : {
+    "start" : 1578630425953,
+    "stop" : 1578630425953,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ecc82d33538ab33c",
+  "name" : "test_find_element_by_id",
+  "time" : {
+    "start" : 1578630441614,
+    "stop" : 1578630441637,
+    "duration" : 23
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "cccb2b81889ed01",
+  "name" : "test_sample",
+  "time" : {
+    "start" : 1578630425964,
+    "stop" : 1578630425964,
+    "duration" : 0
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "ba06f1dff4eb616d",
+  "name" : "test_assert_int",
+  "time" : {
+    "start" : 1578630425967,
+    "stop" : 1578630425967,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

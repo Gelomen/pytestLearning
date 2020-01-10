@@ -1,0 +1,114 @@
+{
+  "total" : 13,
+  "items" : [ {
+    "uid" : "f6963e28cbbfcdefd38536bc87c6b0b8",
+    "name" : "src.a_pytest.b_sequence",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 3,
+      "unknown" : 0,
+      "total" : 4
+    }
+  }, {
+    "uid" : "8e92c5717ab59c63197606f822c7934b",
+    "name" : "src.a_pytest.d_assert",
+    "statistic" : {
+      "failed" : 1,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "cda9ac554604793423e8763844668280",
+    "name" : "src.a_pytest.a_testCase_testSuite",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 2,
+      "unknown" : 0,
+      "total" : 2
+    }
+  }, {
+    "uid" : "e0295cac6f44f20c66ace6febba488e9",
+    "name" : "src.a_pytest.c_mark",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 2,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 3
+    }
+  }, {
+    "uid" : "e6320645a477e2043636297a404479f5",
+    "name" : "src.b_webdriver.a_test_search",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "a9d713499921a16433c9fb73d53fb6df",
+    "name" : "src.b_webdriver.b_find_element.a_by_id",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "8eaee2fffbf581d1730cdf77e724d3db",
+    "name" : "src.b_webdriver.b_find_element.b_by_name",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "67b66e6bfc6f3a97d8e9c901cff58f71",
+    "name" : "src.b_webdriver.b_find_element.c_by_link_text",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "4e805c097bc0622e317afb0fff3ec849",
+    "name" : "src.b_webdriver.b_find_element.d_by_tag_name",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "8a3de9f60f9579e95e1b9404642a7dea",
+    "name" : "src.b_webdriver.b_find_element.e_by_class_name",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

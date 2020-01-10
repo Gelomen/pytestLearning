@@ -1,0 +1,104 @@
+{
+  "uid" : "fe68fe739ba0cc15",
+  "name" : "test_add",
+  "fullName" : "src.a_pytest.b_sequence.test_case.TestClass#test_add",
+  "historyId" : "74f59845f0ee31bcdde039c10c0f1bdc",
+  "time" : {
+    "start" : 1578629214747,
+    "stop" : 1578629214747,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 15 == 16\n +  where 15 = <function Calc.add at 0x000001C503E66790>(1, 2, 12)\n +    where <function Calc.add at 0x000001C503E66790> = <src.a_pytest.b_sequence.Calc.Calc object at 0x000001C5041056A0>.add\n +      where <src.a_pytest.b_sequence.Calc.Calc object at 0x000001C5041056A0> = <src.a_pytest.b_sequence.test_case.TestClass object at 0x000001C504105670>.c",
+  "statusTrace" : "self = <src.a_pytest.b_sequence.test_case.TestClass object at 0x000001C504105670>\n\n    def test_add(self):\n>       assert self.c.add(1, 2, 12) == 16\nE       assert 15 == 16\nE        +  where 15 = <function Calc.add at 0x000001C503E66790>(1, 2, 12)\nE        +    where <function Calc.add at 0x000001C503E66790> = <src.a_pytest.b_sequence.Calc.Calc object at 0x000001C5041056A0>.add\nE        +      where <src.a_pytest.b_sequence.Calc.Calc object at 0x000001C5041056A0> = <src.a_pytest.b_sequence.test_case.TestClass object at 0x000001C504105670>.c\n\nsrc\\a_pytest\\b_sequence\\test_case.py:19: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "_Class__pytest_setup_class",
+    "time" : {
+      "start" : 1578629214747,
+      "stop" : 1578629214747,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 15 == 16\n +  where 15 = <function Calc.add at 0x000001C503E66790>(1, 2, 12)\n +    where <function Calc.add at 0x000001C503E66790> = <src.a_pytest.b_sequence.Calc.Calc object at 0x000001C5041056A0>.add\n +      where <src.a_pytest.b_sequence.Calc.Calc object at 0x000001C5041056A0> = <src.a_pytest.b_sequence.test_case.TestClass object at 0x000001C504105670>.c",
+    "statusTrace" : "self = <src.a_pytest.b_sequence.test_case.TestClass object at 0x000001C504105670>\n\n    def test_add(self):\n>       assert self.c.add(1, 2, 12) == 16\nE       assert 15 == 16\nE        +  where 15 = <function Calc.add at 0x000001C503E66790>(1, 2, 12)\nE        +    where <function Calc.add at 0x000001C503E66790> = <src.a_pytest.b_sequence.Calc.Calc object at 0x000001C5041056A0>.add\nE        +      where <src.a_pytest.b_sequence.Calc.Calc object at 0x000001C5041056A0> = <src.a_pytest.b_sequence.test_case.TestClass object at 0x000001C504105670>.c\n\nsrc\\a_pytest\\b_sequence\\test_case.py:19: AssertionError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "65c2ed8c7f61b230",
+      "name" : "stdout",
+      "source" : "65c2ed8c7f61b230.txt",
+      "type" : "text/plain",
+      "size" : 43
+    } ],
+    "parameters" : [ ],
+    "hasContent" : true,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 1
+  },
+  "afterStages" : [ {
+    "name" : "_Class__pytest_setup_class::0",
+    "time" : {
+      "start" : 1578629214826,
+      "stop" : 1578629214826,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "hasContent" : false,
+    "stepsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0
+  } ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.a_pytest.b_sequence"
+  }, {
+    "name" : "suite",
+    "value" : "test_case"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestClass"
+  }, {
+    "name" : "host",
+    "value" : "GELOMEN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "4032-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.a_pytest.b_sequence.test_case"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "fe68fe739ba0cc15.json",
+  "parameterValues" : [ ]
+}

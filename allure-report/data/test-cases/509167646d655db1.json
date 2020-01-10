@@ -1,0 +1,54 @@
+{
+  "uid" : "509167646d655db1",
+  "name" : "test_find_element_by_name",
+  "fullName" : "src.b_webdriver.b_find_element.b_by_name.test_name.TestByName#test_find_element_by_name",
+  "historyId" : "98dcbf11dfb920e7547eabbf7049fc8e",
+  "time" : {
+    "start" : 1578629237800,
+    "stop" : 1578629237830,
+    "duration" : 30
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.b_webdriver.b_find_element.b_by_name"
+  }, {
+    "name" : "suite",
+    "value" : "test_name"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestByName"
+  }, {
+    "name" : "host",
+    "value" : "GELOMEN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "4032-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.b_webdriver.b_find_element.b_by_name.test_name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "509167646d655db1.json",
+  "parameterValues" : [ ]
+}

@@ -1,0 +1,83 @@
+{
+  "uid" : "aba40c836c426a25",
+  "name" : "test_find_element_by_class_name",
+  "fullName" : "src.b_webdriver.b_find_element.e_by_class_name.test_class_name.TestByClassName#test_find_element_by_class_name",
+  "historyId" : "e6c97c7b56f8f2ed0f12faefc8fd873f",
+  "time" : {
+    "start" : 1578630470906,
+    "stop" : 1578630470924,
+    "duration" : 18
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "src.b_webdriver.b_find_element.e_by_class_name"
+  }, {
+    "name" : "suite",
+    "value" : "test_class_name"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestByClassName"
+  }, {
+    "name" : "host",
+    "value" : "GELOMEN-PC"
+  }, {
+    "name" : "thread",
+    "value" : "9476-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "src.b_webdriver.b_find_element.e_by_class_name.test_class_name"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "8be075e1ff03f93f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1578629259414,
+        "stop" : 1578629259443,
+        "duration" : 29
+      }
+    } ],
+    "categories" : [ ],
+    "history" : {
+      "statistic" : {
+        "failed" : 0,
+        "broken" : 0,
+        "skipped" : 0,
+        "passed" : 2,
+        "unknown" : 0,
+        "total" : 2
+      },
+      "items" : [ {
+        "uid" : "1c16b237bfb6c22d",
+        "status" : "passed",
+        "time" : {
+          "start" : 1578630470906,
+          "stop" : 1578630470924,
+          "duration" : 18
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "aba40c836c426a25.json",
+  "parameterValues" : [ ]
+}
