@@ -1,7 +1,0 @@
-
-setUpClass
-
-
-setUp
-
-tearDown
